@@ -1,0 +1,18 @@
+{
+  "name" : "proxy",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "f3a67b0c4d7b0ee4feaf912ed1729ed1c4419826",
+  "dependencies" : [ {
+    "name" : "cppzmq",
+    "version>=" : "4.10.0"
+  }, {
+    "name" : "vcpkg-cmake-config",
+    "version>=" : "2024-05-23"
+  }, {
+    "name" : "vcpkg-cmake",
+    "version>=" : "2024-04-23"
+  }, {
+    "name" : "zeromq",
+    "version>=" : "4.3.5#2"
+  } ]
+}
